@@ -5,6 +5,6 @@ Codewars discourage sharing solutions, that's why I only share my 8 kyu solution
 ### Codewars rank
 ![Rank](https://www.codewars.com/users/kurovale/badges/large)
 
-### Current C++ rank
+### Current JavaScript rank
 
-![C++ Rank](https://shields.io/badge/-7%20kyu-white?logo=javascript&style=for-the-badge)
+![JavaScript Rank](https://shields.io/badge/-7%20kyu-white?logo=javascript&style=for-the-badge)
